@@ -35,10 +35,11 @@ Users should be able to:
 <p align="center">
   <img src="./images/screenshots/mobile.png" />
 </p>
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Mafilala/-Order-summary-card)
+- Live Site URL: [Netlify](https://papaya-flan-7a1200.netlify.app/)
 
 ## My process
 
